@@ -18,7 +18,7 @@ namespace Arcanoid
 			this.color = color;
 			this.dx = dx;
 			this.dy = dy;
-			this.r = r;
+			this.r = r; ///////////
 			this.v = v;
 		}
 
